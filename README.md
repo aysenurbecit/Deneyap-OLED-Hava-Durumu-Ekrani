@@ -1,7 +1,7 @@
 # Deneyap-OLED-Hava-Durumu-Ekrani
  Bu proje, OpenWeatherMap API'sini kullanarak hava durumu bilgilerini çeken ve bir OLED ekranda gösteren bir Deneyap Kart projesidir.
 
- Bu program, OpenWeatherMap API'den Istanbul için hava durumu verilerini alır ve bunları Deneyap OLED ekranında gösterir.
+ Bu programda, OpenWeatherMap API'den Istanbul için hava durumu verileri alınır ve bunlar Deneyap OLED ekranında gösterilir. Dilerseniz linkte yapacağınız bölge değişimleri ile istediğiniz şehrin hava durumu bilgisini görüntüleyebilirisiniz.
 
 ## Gereksinimler
   
