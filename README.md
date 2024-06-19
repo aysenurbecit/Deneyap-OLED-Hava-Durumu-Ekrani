@@ -21,3 +21,7 @@
 3. Deneyap kartınızı güç kaynağına bağlayın.
 4. Seri monitörü açarak hava durumu bilgilerini görüntüleyin.
 
+
+## NOT
+havadurumu.cpp, projeye tuş takımı da eklenmiş kodları içermektedir.
+
