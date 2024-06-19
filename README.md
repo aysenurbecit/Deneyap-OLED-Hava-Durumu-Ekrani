@@ -23,5 +23,6 @@
 
 
 ## NOT
-havadurumu.cpp, projeye tuş takımı da eklenmiş kodları içermektedir.
+havadurumu.cpp, projeye tuş takımı da eklenmiş kodları içermektedir. devre_semasi.png de bu kodun bağlantıları mevcuttur. 
+Bu ReadMe dosyası main.cpp için oluşturulmuştur.
 
